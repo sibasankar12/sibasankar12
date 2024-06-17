@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Restassured with BDD Cucumber Framework**
 
-- 📫 How to reach me **sahusibasankar28@gmail.com**
+- 📫 How to reach me **sibasankars018@gmail.com**
 
 - 📄 Know about my experiences [https://www.naukri.com/mnjuser/profile?id=&altresid](https://www.naukri.com/mnjuser/profile?id=&altresid)
 
